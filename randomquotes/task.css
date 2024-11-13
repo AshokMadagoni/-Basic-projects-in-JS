@@ -1,0 +1,27 @@
+*{
+    font-size: 30px;
+    color:white;
+}
+body{
+    background-image: url(https://img.freepik.com/free-photo/single-chair-reflecting-water-surface-stormy-day_181624-14163.jpg?semt=ais_hybrid);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    align-content: center;
+}
+div{
+    justify-content: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    align-content: center;
+    background-color: rgba(23, 105, 164, 0.633);
+    height: 150px;
+    box-shadow: 5px 5px 2px black;
+
+}
+button{
+    border: 2px solid black;
+    box-shadow: 5px 5px 2px black;
+    color: black;
+}
